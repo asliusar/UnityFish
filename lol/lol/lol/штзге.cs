@@ -1,3 +1,4 @@
 //vasa
 #define n 10
-lock
+
+while (abstract>b){}
